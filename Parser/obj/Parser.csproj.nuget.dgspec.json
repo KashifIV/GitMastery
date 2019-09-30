@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/c/Users/kashi/Documents/GitMastery/Parser/Parser.csproj": {}
+  },
+  "projects": {
+    "/mnt/c/Users/kashi/Documents/GitMastery/Parser/Parser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/c/Users/kashi/Documents/GitMastery/Parser/Parser.csproj",
+        "projectName": "Parser",
+        "projectPath": "/mnt/c/Users/kashi/Documents/GitMastery/Parser/Parser.csproj",
+        "packagesPath": "/home/Kashif/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/kashi/Documents/GitMastery/Parser/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/Kashif/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
