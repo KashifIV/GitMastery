@@ -1,0 +1,11 @@
+/mnt/c/Users/kashi/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.csprojAssemblyReference.cache
+/mnt/c/Users/kashi/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.csproj.CoreCompileInputs.cache
+/mnt/c/Users/kashi/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.AssemblyInfoInputs.cache
+/mnt/c/Users/kashi/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.AssemblyInfo.cs
+/mnt/c/Users/kashi/Documents/GitMastery/Parser/bin/Debug/netcoreapp2.2/Parser.deps.json
+/mnt/c/Users/kashi/Documents/GitMastery/Parser/bin/Debug/netcoreapp2.2/Parser.runtimeconfig.json
+/mnt/c/Users/kashi/Documents/GitMastery/Parser/bin/Debug/netcoreapp2.2/Parser.runtimeconfig.dev.json
+/mnt/c/Users/kashi/Documents/GitMastery/Parser/bin/Debug/netcoreapp2.2/Parser.dll
+/mnt/c/Users/kashi/Documents/GitMastery/Parser/bin/Debug/netcoreapp2.2/Parser.pdb
+/mnt/c/Users/kashi/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.dll
+/mnt/c/Users/kashi/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.pdb

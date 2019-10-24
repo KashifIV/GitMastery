@@ -1,12 +1,20 @@
 ﻿using System;
 
-namespace Parser
+namespace CPP 
 {
-    class Program
-    {
-        static void Main(string[] args)
+    namespace Program{
+        class Program
         {
-            Console.WriteLine("Hello World!");
+            static void Main(string[] args)
+            {
+                Tokenizer tokenizer = new Tokenizer("Testing/countingLoop.cpp");
+                CPP.Tree tree = new Tree(); 
+                Tracer tracer = new Tracer(tokenizer, tree); 
+                if (tracer.IsMatch){
+                    Console.WriteLine("The Code Matches");
+                }
+                else Console.WriteLine("The Code does not Match"); 
+            }
         }
     }
 }
