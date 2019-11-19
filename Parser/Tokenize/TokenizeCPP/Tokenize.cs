@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.IO; 
 using System.Linq;
 public class Tokenize: ITokenize<Token>{
     private ILexer<Token> lexer; 
@@ -8,9 +9,8 @@ public class Tokenize: ITokenize<Token>{
     }
     public Tokenize(string source){
         lexer = new CplusplusLexer(); 
-        tokens = lexer.Tokenize(source).ToList(); 
+        tokens = lexer.Tokenize(File.ReadAllText(source)).ToList(); 
         CleanTokens(); 
-
     }
 
     private void CleanTokens(){

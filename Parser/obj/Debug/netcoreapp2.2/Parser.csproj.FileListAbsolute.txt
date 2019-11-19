@@ -9,3 +9,14 @@
 /mnt/c/Users/kashi/Documents/GitMastery/Parser/bin/Debug/netcoreapp2.2/Parser.pdb
 /mnt/c/Users/kashi/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.dll
 /mnt/c/Users/kashi/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.pdb
+/home/kashif/Documents/GitMastery/Parser/bin/Debug/netcoreapp2.2/Parser.deps.json
+/home/kashif/Documents/GitMastery/Parser/bin/Debug/netcoreapp2.2/Parser.runtimeconfig.json
+/home/kashif/Documents/GitMastery/Parser/bin/Debug/netcoreapp2.2/Parser.runtimeconfig.dev.json
+/home/kashif/Documents/GitMastery/Parser/bin/Debug/netcoreapp2.2/Parser.dll
+/home/kashif/Documents/GitMastery/Parser/bin/Debug/netcoreapp2.2/Parser.pdb
+/home/kashif/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.csprojAssemblyReference.cache
+/home/kashif/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.csproj.CoreCompileInputs.cache
+/home/kashif/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.AssemblyInfoInputs.cache
+/home/kashif/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.AssemblyInfo.cs
+/home/kashif/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.dll
+/home/kashif/Documents/GitMastery/Parser/obj/Debug/netcoreapp2.2/Parser.pdb
