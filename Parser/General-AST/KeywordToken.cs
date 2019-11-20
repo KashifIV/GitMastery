@@ -1,4 +1,4 @@
-public abstract class AKeywordToken : AToken{
+public class KeywordToken : AToken{
     Keyword keyword; 
-    public AKeywordToken(Keyword keyword, string value) : base(value) => this.keyword = keyword; 
+    public KeywordToken(Keyword keyword, string value) : base(value) => this.keyword = keyword; 
 }
